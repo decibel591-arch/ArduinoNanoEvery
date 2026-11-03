@@ -4,12 +4,4 @@ Repository for EveryMan  Stuff
 Just starting
   Plan to upload fzz and other material like zip file
 
-  Pictures uploaded.   
-  Schalt is incorrect.  
-  Leiter is Ok but text is uneditable.  
-  Steck is CORRECT.  
-  Illustrate problem with Fritzing
-
-<img width="1250" height="940" alt="Leiter" src="https://github.com/user-attachments/assets/704a23b9-99d2-4b91-aae4-8261d1f73594" />
-<img width="1250" height="940" alt="Schalt" src="https://github.com/user-attachments/assets/2d9ae3fe-69ee-4a68-9f76-883103933585" />
-<img width="1250" height="940" alt="Steck" src="https://github.com/user-attachments/assets/d20efe41-5f7f-4890-8ebd-ee7b1b9f30de" />
+ 

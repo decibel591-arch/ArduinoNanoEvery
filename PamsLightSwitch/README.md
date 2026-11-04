@@ -15,6 +15,6 @@ Circuit
   Steck is CORRECT.  
   Illustrate problem with Fritzing
 
-The Arduino .ino files are in zip file. 
+The Arduino .ino files are in a zip file. 
 
 [Download zipped file](pammys.zip)

@@ -16,4 +16,4 @@ Circuit
   Illustrate problem with Fritzing
 
 The Arduino .ino files are in directory Pammy. 
-[Download arduino](Pammy)
+[Download arduino](Pammys)

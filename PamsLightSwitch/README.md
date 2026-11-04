@@ -1,7 +1,7 @@
 # Pams Light Switch
 Repository for Pams Light switch  Stuff
 
-[link to Friting .fzz file](PamsLightSwitch/PamsLightSwitch.fzz)
+[link to Friting .fzz file](PamsLightSwitch)
  
 <img width="1250" height="940" alt="Steck" src="https://github.com/user-attachments/assets/d20efe41-5f7f-4890-8ebd-ee7b1b9f30de" />
 Wire layout

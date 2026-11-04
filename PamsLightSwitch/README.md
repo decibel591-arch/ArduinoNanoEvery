@@ -14,3 +14,6 @@ Circuit
   Leiter is Ok but text is uneditable.  
   Steck is CORRECT.  
   Illustrate problem with Fritzing
+
+The Arduino .ino files are in directory Pammy. 
+[Download Fritzing file](Pam's)

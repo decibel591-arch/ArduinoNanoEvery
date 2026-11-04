@@ -17,8 +17,4 @@ Circuit
 
 The Arduino .ino files are in zip file in directory Pammys. 
 
-[Download] (Pammys)  
-
-arduino .ino files
-
 [Download zipped file](pammys.zip)

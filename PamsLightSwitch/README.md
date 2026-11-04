@@ -19,4 +19,4 @@ The Arduino .ino files are in a zip file.
 
 [Download zip.file](Pammys.zip)
 
-Deskription will follow.
+Description will follow (work in albeit).

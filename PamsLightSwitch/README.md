@@ -8,13 +8,8 @@ PCB board
 <img width="1250" height="940" alt="CircuitDiagram" src="https://github.com/user-attachments/assets/8056053b-3c63-4265-9fcd-033fea28fb90" />
 Circuit Diagram
 
-  Schalt is incorrect.  
-  Leiter is Ok but text is uneditable.  
-  Steck is CORRECT.  
-  Illustrate problem with Fritzing
-
 The Arduino .ino files are in a zip file. 
 
 [Download zip.file](Pammys.zip)
 
-Description will follow (work in albeit).
+Description will follow (work in arbeit).

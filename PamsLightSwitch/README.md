@@ -21,4 +21,4 @@ The Arduino .ino files are in directory Pammys.
 
 arduino .ino files
 
-[Download Fritzing file](PamsLightSwitch.fzz)
+[Download file](PamsLightSwitch.fzz)

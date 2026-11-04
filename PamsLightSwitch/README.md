@@ -17,4 +17,4 @@ Circuit
 
 The Arduino .ino files are in a zip file. 
 
-[Download zipped file](pammys.zip)
+[Download PamsLightSwitch (ZIP)](Pammys.zip)

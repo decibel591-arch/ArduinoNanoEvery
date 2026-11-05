@@ -6,7 +6,8 @@ Wring Layout
 <img width="1250" height="940" alt="PcbLayout" src="https://github.com/user-attachments/assets/b943bcba-f3be-4918-9187-348f06814a6e" />
 PCB board 
 <img width="1250" height="940" alt="CircuitDiagram" src="https://github.com/user-attachments/assets/8056053b-3c63-4265-9fcd-033fea28fb90" />
-Circuit Diagram
+Circuit Diagram.  
+
 
 The Arduino .ino files are in a zip file. 
 
@@ -28,6 +29,6 @@ PamsLightSwitch.ino- Main routine
   There is a(re) bug(s) somewhere.  Couldnt find them. An exercise for the reader.  
   
   Correction for Winter and Summer time (last Sundays in March and October) tried.  
-  Saw that it (had) was (worked) working between visits/travels. 
+  Saw that it (had worked) was working between visits/travels. 
 
 

@@ -28,6 +28,6 @@ PamsLightSwitch.ino- Main routine
   There is a(re) bug(s) somewhere.  Couldnt find them. An exercise for the reader.  
   
   Correction for Winter and Summer time (last Sundays in March and October) tried.  
-  Saw that it (had) was (worked) working between visits travels. 
+  Saw that it (had) was (worked) working between visits/travels. 
 
 

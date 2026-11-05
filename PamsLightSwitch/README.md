@@ -1,5 +1,5 @@
 # Pams Light Switch
-Repository for Pams Light switch  Stuff
+Repository for Pams Light switch
 
 [Download Fritzing file](PamsLightSwitch.fzz)<img width="1250" height="940" alt="WireLayout" src="https://github.com/user-attachments/assets/67387749-d84d-4516-a04c-6cee6c3ab8bf" />
 Wring Layout
@@ -12,4 +12,7 @@ The Arduino .ino files are in a zip file.
 
 [Download zip.file](Pammys.zip)
 
-Description will follow (work in arbeit).
+RlyBlnk.ino- Simply teat of Arduino and relay module
+
+
+

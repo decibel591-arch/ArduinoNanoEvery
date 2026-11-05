@@ -12,7 +12,7 @@ The Arduino .ino files are in a zip file.
 
 [Download zip.file](Pammys.zip)
 
-RlyBlnk.ino- Simply teat of Arduino and relay module.  
+RlyBlnk.ino- Simply test of Arduino and relay module.  
 
 RTCds1302.ino- Shows time and sets by uncommenting commands between /* .... */.  
 

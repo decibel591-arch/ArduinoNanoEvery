@@ -8,7 +8,7 @@ PCB board- showing problems
 <img width="1250" height="940" alt="CircuitDiagram" src="https://github.com/user-attachments/assets/8056053b-3c63-4265-9fcd-033fea28fb90" />
 Circuit Diagram- showing problem
 
-In trying to get rid of the problem in the Circuit Diagram deleting the connection removes the yellow wire in Wiring Layout? is my Reference).  Suspect this is a problem in EveryMan part. 
+In trying to get rid of the problem in the Circuit Diagram deleting the connection removes the yellow wire in Wiring Layout? (it is my/the Reference).  Suspect this is a problem in EveryMan part. 
 
 
 The Arduino .ino files are in a zip file. 

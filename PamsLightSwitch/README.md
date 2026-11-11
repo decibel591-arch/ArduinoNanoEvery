@@ -20,7 +20,10 @@ RlyBlnk.ino- Simply test of Arduino and relay module.
 RTCds1302.ino- Shows time and sets by uncommenting commands between /* .... */.  
 
 
-PamsLightSwitch.ino- Description of Main routine 
+PamsLightSwitch.ino- Main routine. 
+
+
+## Description of Main routine 
 
   Relay ON given by time for SunDown and OFF by "time for Bed".  During  the night (till 06:00) a random switch is used for toilet visit(s) (cirka 8 mins).  Sundown is given by a two Cosine fit to Light_Up times (Street Lights) plus Tophat (Summer/winter) for the Pompey (UK) area.  The 24 hour loop reads the clock twice (jede 12 hour) to synchronize. In between it uses wait function to determine action. 
   

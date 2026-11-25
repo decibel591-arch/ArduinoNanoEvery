@@ -25,7 +25,7 @@ PamsLightSwitch.ino- Main routine.
 
 ## Description of Main routine 
 
-  Relay ON given by time for SunDown and OFF by "time for Bed".  During  the night (till 06:00) a random switch is used for toilet visit(s) (cirka 8 mins).  Sundown is given by a two Cosine fit to Light_Up times (Street Lights) plus Tophat (Summer/winter) for the Pompey (UK) area.  The 24 hour loop reads the clock twice (jede 12 hour) to synchronize. In between it uses wait function to determine action. 
+  Relay ON given by time for SunDown and OFF by "time for Bed".  During  the night (till 06:00) a random switch is used for toilet visit(s) (cirka 8 mins).  Sundown is given by a two Cosine fit to Light_Up times (published Street Lights) plus Tophat (Summer/winter) for the Pompey (UK) area.  The 24 hour loop reads the clock twice (jede 12 hour) to synchronize. In between it uses wait function to determine action. 
   
   Strategy was to minimise switching and current usage.  The setting of the time was kept separate from the Main routine as it was "cleaner". Main refrains from Output to Serial monitor- there were problems so the printing was taken out as possible cause. 
   
